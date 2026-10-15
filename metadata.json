@@ -1,0 +1,8 @@
+{
+  "name": "FlowFix Operations",
+  "description": "All-in-one cleaning business operations hub with automated WhatsApp confirmations, scheduling, cleaner roster, and invoicing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
